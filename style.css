@@ -1,0 +1,41 @@
+.container{
+    margin: auto;
+ width: 39%;
+ display: flex;
+flex-direction: column;
+text-align: center;
+}
+
+.heading{
+    font-size: 36px;
+    font-weight: 600;
+    margin: 50px;
+}
+.barra{
+    color: #D9D9D9;
+}
+
+.card{
+    
+    display: flex;
+    align-items: center;
+    img{
+        margin: 30px;
+        border-radius: 15px;
+    }
+    p{
+        margin:20px;
+        text-align: left;
+        color: #4D5562;
+    }
+}
+
+.text{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.subtext{
+    font-size: 14px;
+    font-weight: 500;
+}
